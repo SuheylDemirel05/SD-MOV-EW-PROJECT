@@ -1,21 +1,25 @@
-# SD-MOV-EW-PROJECT
+# 🎬 Movie Website | Responsive Web Application
 
-Bu proje, HTML5, CSS3 ve JavaScript kullanılarak geliştirilmiş bir **film tanıtım ve keşif platformudur**. Mobil ve masaüstü uyumlu tasarımı sayesinde her cihazda sorunsuz bir kullanıcı deneyimi sunar.
+This project is a **movie discovery and showcase platform** developed using HTML5, CSS3, and JavaScript. With its fully responsive design, it offers a seamless user experience across all devices.
 
-## 🚀 Özellikler
+## 🚀 Features
 
-- ✅ %100 responsive tasarım
-- 🎨 Temiz, sade ve anlaşılır kullanıcı arayüzü
-- 🧹 Az ve öz, okunabilir kod yapısı
-- 🎥 Film kartlarıyla içerik listesi
-- 📱 Mobil uyumlu grid ve layout sistemi
+- ✅ 100% responsive design
+- 🎨 Clean, simple, and intuitive user interface
+- 🧹 Minimal, readable, and well-structured code
+- 🎥 Movie cards for displaying content
+- 📱 Mobile-friendly grid and layout system
 
-## 🛠️ Kullanılan Teknolojiler
+## 🛠️ Technologies Used
 
-| Teknoloji  | Açıklama                         |
-|------------|----------------------------------|
-| HTML5      | Semantik yapılar ve içerik       |
-| CSS3       | Responsive tasarım ve stiller     |
-| JavaScript | Etkileşimli özellikler ve dinamik yapı |
+| Technology  | Description                          |
+|-------------|--------------------------------------|
+| HTML5       | Semantic structure and content        |
+| CSS3        | Styling and responsive layout         |
+| JavaScript  | Interactive features and dynamic logic |
 
 
+
+## 🎞️ Demo GIF
+
+![ezgif-70a25bfad667a3-ezgif com-optimize](https://github.com/user-attachments/assets/4de8e2e1-6461-4089-a931-087766929de0)
